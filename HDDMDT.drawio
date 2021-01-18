@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T15:20:54.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="o4uZ-5_wvzRRR-KIsvk9" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T15:59:09.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="fDtTiI1a7U3oPqNPI939" version="14.2.4" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="946" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
             <mxPoint x="510" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohVpYO0YANoWVrIJYbx0-6" value="1 G or 10 G" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="69ecfefc5c41e42c-18">
+        <mxCell id="ohVpYO0YANoWVrIJYbx0-6" value="10 G" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="69ecfefc5c41e42c-18">
           <mxGeometry x="0.4526" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -117,10 +117,7 @@
           <mxGeometry x="510" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ohVpYO0YANoWVrIJYbx0-5" value="Deployment share" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ohVpYO0YANoWVrIJYbx0-14" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="530" y="250" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
