@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T15:59:09.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="fDtTiI1a7U3oPqNPI939" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T17:28:12.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="_sa14renaK1JehAW26mL" version="14.2.4" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="946" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,19 @@
           <mxGeometry x="510" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ohVpYO0YANoWVrIJYbx0-5" value="Deployment share" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
-          <mxGeometry x="470" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ohVpYO0YANoWVrIJYbx0-16" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ohVpYO0YANoWVrIJYbx0-17" value="Management Computer&lt;br&gt;MDT software" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="790" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ohVpYO0YANoWVrIJYbx0-18" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="800" y="240.2970588235294" as="sourcePoint" />
+            <mxPoint x="540" y="290.00294117647053" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
